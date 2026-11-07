@@ -1,1 +1,61 @@
+name: Update data
+
+# Every morning at 06:00 Japan time (21:00 UTC), and from the Actions tab with "Run workflow".
+on:
+  schedule:
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency: kippu-data
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get the data branch
+        run: |
+          if git ls-remote --exit-code --heads origin data >/dev/null; then
+            git clone --quiet --branch data --depth 1 "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" out
+          else
+            mkdir out && cd out && git init --quiet -b data
+            git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          fi
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - name: Read the sites
+        id: build
+        run: |
+          set +e
+          python build.py --out out
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+
+      - name: Save the data
+        working-directory: out
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit --quiet -m "data: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push --quiet origin data
+          fi
+
+      - name: Report problems
+        if: steps.build.outputs.code != '0'
+        run: |
+          echo "Some sources could not be read. The app keeps the last good copy of those parts."
+          exit 1
 
