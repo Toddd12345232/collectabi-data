@@ -160,7 +160,7 @@ def _refresh_manhole(fetcher, state, now):
     pages, problems, streak = {}, [], 0
     for pref in range(1, 48):
         key = f"{pref:02d}"
-        old = old_pages.get(key, [])
+        old = [{**o, "id": manhole.clean_id(o["id"])} for o in old_pages.get(key, [])]   # ids saved before clean_id
         if streak >= FAIL_STREAK_LIMIT:   # GKP looks down: keep the rest as they were
             pages[key] = old
             continue
@@ -224,6 +224,7 @@ def derive_manhole(state, now):
     cards, seen = [], set()
     for key in sorted(mh["pages"]):
         for c in mh["pages"][key]:
+            c = {**c, "id": manhole.clean_id(c["id"])}
             if c["id"] in seen:
                 continue
             seen.add(c["id"])

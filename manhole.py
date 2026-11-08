@@ -19,6 +19,14 @@ def page_url(pref):
     return PAGE_URL.format(pref)
 
 
+def clean_id(name):
+    """A card's id from its picture's file name, without the extension or stray characters
+    (GKP's links sometimes end in a line break or a dot)."""
+    name = name.strip().rstrip("/").rsplit("/", 1)[-1].strip()
+    m = re.match(r"(.+?)\.(?:jpe?g|png|gif)\b", name, re.I)
+    return (m.group(1) if m else name).strip(" .")
+
+
 def _lines(cell):
     out = []
     for line in cell.get_text("\n").split("\n"):
@@ -58,7 +66,7 @@ def parse_page(html, pref):
         town = _CODE.sub("", town_lines[0]).strip() if town_lines else ""
         img = cells[1].find("img")
         src = (img.get("src") or "") if img else ""
-        stem = re.sub(r"\.(?:jpe?g|png|gif)$", "", src.rstrip("/").rsplit("/", 1)[-1], flags=re.I)
+        stem = clean_id(src) if src.strip() else ""
         rnd = re.search(r"\d+", cells[2].get_text())
         cid = stem or f"{pref:02d}-{town}-{code.group(1) if code else ''}-{rnd.group() if rnd else ''}"
         info = _lines(cells[4])
