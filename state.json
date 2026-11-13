@@ -63122,20 +63122,266 @@
    "hours": "8:30～18:00 レストラン 11:00～15:00 軽食喫茶 10:00～11：00、15:00～16:00",
    "closed": "不定休、3/31",
    "at": "2026-11-12T02:04:49+00:00"
+  },
+  "698": {
+   "yomi": "ひゅうが",
+   "hours": "9:00～18:00(4～10月は19:00まで)",
+   "closed": "12/31～1/1",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "699": {
+   "yomi": "たかちほ",
+   "hours": "9:30～19:00(12～2月は18:00まで) レストラン 10:00～17:300(12～2月は17:00まで)",
+   "closed": "年中無休",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "782": {
+   "yomi": "ふぇにっくす",
+   "hours": "8:30～18:00 レストラン堀切 9:00～17:00",
+   "closed": "年中無休",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "996": {
+   "yomi": "つの",
+   "hours": "8:30～18:00(10～3月17:30まで) フードコート 10:30～18:00(10～3月17:30まで)",
+   "closed": "年中無休",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "997": {
+   "yomi": "えびの",
+   "hours": "9:00～18:00 レストラン 11:00～15:00",
+   "closed": "第3火曜、1/1～1/2",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "1040": {
+   "yomi": "きたかたよっちみろや",
+   "hours": "8:00～19:00(10～3月は18:30まで)",
+   "closed": "火曜",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "1183": {
+   "yomi": "くしま",
+   "hours": null,
+   "closed": null,
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "1209": {
+   "yomi": "きたごう",
+   "hours": "物産館 9:00～18:00 レストラン 11:00～15:00",
+   "closed": "年中無休",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "634": {
+   "yomi": "きいれ",
+   "hours": "10:00～21:00",
+   "closed": "第2月曜",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "635": {
+   "yomi": "きりしま",
+   "hours": "9:00～17:15(11～3月は17:00まで)",
+   "closed": "年中無休",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "636": {
+   "yomi": "ひわき",
+   "hours": "8:30～18:30(10～3月は9:00～18:00) レストラン 9:00～16:00",
+   "closed": "第1,3水曜、1/1、1/5",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "637": {
+   "yomi": "まつやま",
+   "hours": "9:00～18:00",
+   "closed": "第4月曜、1/1",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "638": {
+   "yomi": "あくね",
+   "hours": "9:00～19:00(10～3月は18:00まで) 喫茶 10:30～15:00 レストラン 10:30～15:00",
+   "closed": "年中無休(レストランのみ12/31～1/1休み)",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "639": {
+   "yomi": "ながしま",
+   "hours": "8:30～18:30(10～3月は9:00～18:00) 魚島 11:00～15:00、17:30～22:00 喫茶 11:00～15:00",
+   "closed": "1/1 レストラン 不定休",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "640": {
+   "yomi": "くにのまつばらおおさき",
+   "hours": "7:00～21:00 レストラン 11:00～21:00",
+   "closed": "第3火曜",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "641": {
+   "yomi": "ねじめ",
+   "hours": "8:30～17:00 売店 9:00～18:00 レストラン 11:00～14:00",
+   "closed": "12/31～1/3",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "642": {
+   "yomi": "かわなべやすらぎのさと",
+   "hours": "物産館 8:00～19:00(12～3月は9:00～16:00) レストラン 11:00～18:00",
+   "closed": "1/1",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "643": {
+   "yomi": "あまみおおしますみよう",
+   "hours": "9:30～18:00(※12/31,1/1は16:00まで) レストラン 10:00～18:00 体験施設 10:00～16:00 博物館・美術館 9:30～18:00",
+   "closed": "無休",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "644": {
+   "yomi": "さくらじま",
+   "hours": "9:00～18:00 レストラン 9:00～17:00",
+   "closed": "第3月曜",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "645": {
+   "yomi": "きんぽうこのはなかん",
+   "hours": "9:00～18:00 レストラン 9:30～15:00",
+   "closed": "1/1～1/3",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "700": {
+   "yomi": "おおすみやごろうでんせつのさと",
+   "hours": "9:00～19:00 レストラン 11:00～19:00",
+   "closed": "物産館・レストラン以外第2,4木曜 1/1",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "783": {
+   "yomi": "たからべ",
+   "hours": "9:00～19:00 食堂 11:00～16:00",
+   "closed": "年中無休",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "784": {
+   "yomi": "いぶすき",
+   "hours": "8:30～18:30(10～3月は18:00まで) 小牧そば茶屋 11:00～18:00",
+   "closed": "年中無休",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "785": {
+   "yomi": "たるみず",
+   "hours": "9:00～21:00 レストラン館 11:00～17:00(土日祝は20:00まで)",
+   "closed": "年中無休",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "830": {
+   "yomi": "すえよし",
+   "hours": "9:00～19:00 レストラン四季祭 11:00～15:00、18:00～21:00(夜は水曜休み)",
+   "closed": "1/1",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "937": {
+   "yomi": "くろのせとだんだんいちば",
+   "hours": "9:00～18:00",
+   "closed": "1/1～1/2",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "978": {
+   "yomi": "やまがわみなといおかいどう",
+   "hours": "8:30～18:00 レストラン 11:00～15:00",
+   "closed": "第3水曜、1/1～2",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "1016": {
+   "yomi": "きんこうにしきのさと",
+   "hours": "9:00～18:00",
+   "closed": "1/1～1/3",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "1041": {
+   "yomi": "のがたあらさの",
+   "hours": "ローソン 24時間",
+   "closed": null,
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "1148": {
+   "yomi": "たるみずはまびら",
+   "hours": "9:00～18:30(夏季・冬季営業時間変更有)",
+   "closed": "年中無休",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "1218": {
+   "yomi": "とくのしま",
+   "hours": null,
+   "closed": null,
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "646": {
+   "yomi": "きょだ",
+   "hours": "8:30～19:00 レストラン 10:00～19:00",
+   "closed": "年中無休",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "647": {
+   "yomi": "おおぎみ",
+   "hours": "8:30～17:30(土日祝は18:00まで) 食堂 11:30～17:00 喫茶店 11:00～15:00",
+   "closed": null,
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "648": {
+   "yomi": "ゆいゆいくにがみ",
+   "hours": "9:00～18:00 直売所 9:00～17:30 レストランくいな 11:00～17:00 わぁ～家～ 11:00～19:00 まるとみ鮮魚 10:00～19:00 パーラーゆんたく 10:00～18:00",
+   "closed": "無休 まるとみ鮮魚 月曜",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "742": {
+   "yomi": "かでな",
+   "hours": "9:00～19:00 レストラン 9:00～23:00",
+   "closed": "年中無休",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "845": {
+   "yomi": "きなばんしょ",
+   "hours": "9:00～18:00",
+   "closed": "月曜",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "888": {
+   "yomi": "とよさき",
+   "hours": "9:00～19:00 情報ステーション 9:00～19:00(土日祝18:00まで)",
+   "closed": "無休",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "903": {
+   "yomi": "いとまん",
+   "hours": "9:00～20:00",
+   "closed": "年中無休",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "1042": {
+   "yomi": "ぎのざ",
+   "hours": "9:00～19:00",
+   "closed": "年中無休",
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "1176": {
+   "yomi": "さんらいずひがし",
+   "hours": "9:00～18:00",
+   "closed": null,
+   "at": "2026-11-13T01:36:30+00:00"
+  },
+  "1196": {
+   "yomi": "やんばるぱいなっぷるのおかあは",
+   "hours": null,
+   "closed": null,
+   "at": "2026-11-13T01:36:30+00:00"
   }
  },
  "sources": {
   "michieki": "2026-11-07T04:30:31+00:00",
-  "apt_status": "2026-11-12T02:04:49+00:00",
-  "apt_specials": "2026-11-12T02:04:49+00:00",
-  "apt_notices": "2026-11-12T02:04:49+00:00",
+  "apt_status": "2026-11-13T01:36:30+00:00",
+  "apt_specials": "2026-11-13T01:36:30+00:00",
+  "apt_notices": "2026-11-13T01:36:30+00:00",
   "chubu": "2026-11-07T04:30:31+00:00",
   "manhole": "2026-11-07T04:30:31+00:00",
-  "details": "2026-11-12T02:04:49+00:00"
+  "details": "2026-11-13T01:36:30+00:00"
  },
  "notes": [
-  "translation: daily allowance reached (4404 characters); the rest continues tomorrow",
-  "translation: 4404 characters with MyMemory"
+  "translation: daily allowance reached (4383 characters); the rest continues tomorrow",
+  "translation: 4383 characters with MyMemory"
  ],
  "translations": {
   "0c0c821cc1": {
@@ -66025,6 +66271,546 @@
     "when": "8/7~9일 매일 9:00~",
     "cond": "1,000엔 이상 구매 시 1장 증정",
     "limit": "1인 1매까지"
+   }
+  },
+  "c0858d4a9b": {
+   "key": "f2275925e32e",
+   "en": {
+    "name": "23rd Anniversary of the Opening of the Port Ticket",
+    "when": "From 9:00 on 7 August until sold out",
+    "cond": "Distributed to those who made a purchase",
+    "limit": "Limit of one per person",
+    "phone": "OK (not available for booking)",
+    "extra": [
+     "*Excludes self-service checkouts"
+    ]
+   },
+   "zh-Hant": {
+    "name": "開港 23 週年紀念票券",
+    "when": "8月7日 9:00 起，售完為止",
+    "cond": "分發給購物者",
+    "limit": "每人限領一張",
+    "phone": "OK（無法預約）",
+    "extra": [
+     "※不包括自助結帳機"
+    ]
+   },
+   "ko": {
+    "name": "개항 23주년 기념 승차권",
+    "when": "8/7 9:00~ 매진 시 종료",
+    "cond": "구매 고객에게 배포",
+    "limit": "1인 1매까지",
+    "phone": "OK(예약 불가)",
+    "extra": [
+     "※ 셀프 계산대는 제외"
+    ]
+   }
+  },
+  "01bc46d7ad": {
+   "key": "8be38917cb20",
+   "en": {
+    "name": "Ticket to commemorate over 4 million visitors",
+    "when": "From 9:00 on 25 July until sold out",
+    "cond": "One ticket for every ¥1,000 spent at the farm shop and food and drink outlets",
+    "limit": "No limit on the number of copies distributed",
+    "extra": [
+     "*Excluding convenience stores",
+     "Roadside station",
+     "Distribution of \"Joshu Onishi\" has ended as of 29 July 2026"
+    ]
+   },
+   "zh-Hant": {
+    "name": "突破 400 萬名訪客紀念票券",
+    "when": "7 月 25 日 9:00 起，售完為止",
+    "cond": "在直銷處及餐飲大樓每消費 1,000 日圓即可獲得一張。",
+    "limit": "發放數量無上限",
+    "extra": [
+     "※不包括便利商店",
+     "「公路休息站」",
+     "「上州小仁田」已停止發放 截至 2026 年 7 月 29 日"
+    ]
+   },
+   "ko": {
+    "name": "방문객 400만 명 돌파 기념 티켓",
+    "when": "7/25 9:00~ 소진 시 종료",
+    "cond": "직판소 및 식음료 건물에서 1,000엔마다 1장 증정",
+    "limit": "배포 수량 제한 없음",
+    "extra": [
+     "※ 편의점 제외",
+     "'로드스테이션",
+     "조슈 오니시 님은 배포가 종료되었습니다. 2026년 7월 29일 현재"
+    ]
+   }
+  },
+  "ff7eca18be": {
+   "key": "a4b2c88124ea",
+   "en": {
+    "name": "Special commemorative ticket for reaching 20,000",
+    "when": "From 19 July until stocks last",
+    "cond": "1 point for every 500 yen",
+    "limit": "Unlimited number of copies for distribution"
+   },
+   "zh-Hant": {
+    "name": "突破兩萬張特別紀念車票",
+    "when": "7 月 19 日起，售完為止",
+    "cond": "每 500 日圓 1 張",
+    "limit": "發放數量無上限"
+   },
+   "ko": {
+    "name": "2만 번 돌파 특별 기념 승차권",
+    "when": "7/19~ 소진 시 종료",
+    "cond": "500엔당 1장",
+    "limit": "배포 수량 제한 없음"
+   }
+  },
+  "c77df8a338": {
+   "key": "a360e628034a",
+   "en": {
+    "name": "24th Anniversary Ticket",
+    "when": "From 9:00 on 25 July until sold out",
+    "cond": "One for customers who spend over £500 on merchandise",
+    "limit": "Unlimited number of copies for distribution"
+   },
+   "zh-Hant": {
+    "name": "開業 24 週年紀念車票",
+    "when": "7 月 25 日 9:00 起，售完為止",
+    "cond": "購買商品滿 500 日圓以上者可獲得 1 張",
+    "limit": "無發放數量限制"
+   },
+   "ko": {
+    "name": "개업 24주년 기념 승차권",
+    "when": "7/25 9:00~ 매진 시 종료",
+    "cond": "상품 500엔 이상 구매 시 1장",
+    "limit": "배포 수량 제한 없음"
+   }
+  },
+  "d1197165e9": {
+   "key": "1e203192ad55",
+   "en": {
+    "name": "Special commemorative ticket for reaching 20,000",
+    "when": "From 9:00 on 25 July until sold out",
+    "cond": "One coupon for customers who spend over £500 at the central till in the shop",
+    "limit": "Unlimited number of copies for distribution",
+    "mail": "Not allowed * Distributed only to visitors to the station (returned as received)",
+    "extra": [
+     "*One per transaction"
+    ]
+   },
+   "zh-Hant": {
+    "name": "突破兩萬張特別紀念車票",
+    "when": "7 月 25 日 9:00 起，售完為止",
+    "cond": "在商店中央收銀台消費滿 500 日圓以上者可獲得一張",
+    "limit": "發放數量無限制",
+    "mail": "NG ※僅分發給到站的乘客（若寄送，將原封不動退回）",
+    "extra": [
+     "※每筆帳單限領一張"
+    ]
+   },
+   "ko": {
+    "name": "2만 번 돌파 특별 기념 승차권",
+    "when": "7/25 9:00~ 매진 시 종료",
+    "cond": "매장 중앙 계산대에서 500엔 이상 구매 시 1장",
+    "limit": "배포 수량 제한 없음",
+    "mail": "NG ※ 역 방문객에게만 배포(보내온 그대로 반송합니다)",
+    "extra": [
+     "※ 1회 결제당 1장"
+    ]
+   }
+  },
+  "a6c7e52227": {
+   "key": "d3bd05dc9f8e",
+   "en": {
+    "name": "36th Anniversary Special Commemorative Ticket",
+    "when": "From 9:00 on 24 July until sold out",
+    "cond": "Distributed to those who wish to purchase merchandise worth £500 or more",
+    "limit": "No limit on the number of copies distributed",
+    "mail": "NG (Return as received)"
+   },
+   "zh-Hant": {
+    "name": "開業 36 週年特別紀念車票",
+    "when": "7月24日 9:00 起，售完為止",
+    "cond": "發放給購買商品金額超過 500 日圓的顧客",
+    "limit": "發放數量無上限",
+    "mail": "NG（原封不動退回）"
+   },
+   "ko": {
+    "name": "개업 36주년 특별 기념 승차권",
+    "when": "7/24 9:00~ 소진 시 종료",
+    "cond": "상품 500엔 이상 구매 희망자에게 배포",
+    "limit": "배포 수량 제한 없음",
+    "mail": "NG(송장 부착한 채 그대로 반품합니다)"
+   }
+  },
+  "324ec833b4": {
+   "key": "70505b670263",
+   "en": {
+    "name": "2026 Special Commemorative Ticket",
+    "when": "From 10:00 on 20 July until sold out",
+    "cond": "One coupon issued per standard ticket",
+    "limit": "Up to 5 per person"
+   },
+   "zh-Hant": {
+    "name": "2026 特別紀念車票",
+    "when": "7 月 20 日 10:00 起，售完為止",
+    "cond": "通常每張票券發放 1 張",
+    "limit": "每人最多 5 張"
+   },
+   "ko": {
+    "name": "2026 특별 기념 티켓",
+    "when": "7/20 10:00~ 소진 시 종료",
+    "cond": "일반권 1장당 1장 배포",
+    "limit": "1인당 5장까지"
+   }
+  },
+  "a2ab70ed57": {
+   "key": "7717cf69b8fb",
+   "en": {
+    "name": "9th Anniversary Ticket",
+    "when": "From 9:00 on 18 July until sold out",
+    "cond": "Customers who have made purchases of £9.99 or more (including tax)",
+    "limit": "-----",
+    "extra": [
+     "* If you would like one, please ask for a special commemorative ticket."
+    ]
+   },
+   "zh-Hant": {
+    "name": "9週年紀念車票",
+    "when": "7月18日 9:00 起，售完為止",
+    "cond": "購買金額滿 999 日圓（含稅）的顧客",
+    "limit": "-----",
+    "extra": [
+     "※若您有需要，請向我們索取特別紀念車票。"
+    ]
+   },
+   "ko": {
+    "name": "9주년 기념 티켓",
+    "when": "7/18 9:00~ 소진 시 종료",
+    "cond": "세금 포함 999엔 이상 구매하신 분",
+    "limit": "-----",
+    "extra": [
+     "※ 특별 기념 승차권을 원하시는 분은 말씀해 주시기 바랍니다."
+    ]
+   }
+  },
+  "e1db57c1a6": {
+   "key": "85252d5ae42e",
+   "en": {
+    "name": "Special commemorative ticket for reaching 10,000",
+    "when": "From 10:00 on 18 July until sold out",
+    "cond": "One ticket for customers who spend over £28.00 on merchandise, and one ticket for every 14 standard tickets purchased",
+    "limit": "No limit on the number of items"
+   },
+   "zh-Hant": {
+    "name": "突破一萬張特別紀念車票",
+    "when": "7月18日 10:00 起，售完為止",
+    "cond": "購買商品滿 2,800 日圓以上者可獲得 1 張；每 14 張普通券可獲得 1 張。",
+    "limit": "無數量限制"
+   },
+   "ko": {
+    "name": "1만 번 돌파 특별 기념 승차권",
+    "when": "7/18 10:00~ 소진 시 종료",
+    "cond": "굿즈 2,800엔 이상 구매 시 1장/일반 티켓 14장당 1장",
+    "limit": "장수 제한 없음"
+   }
+  },
+  "c4163d023e": {
+   "key": "69d085a34141",
+   "en": {
+    "name": "Special commemorative ticket",
+    "when": "From 8:00 on 19 July until sold out",
+    "cond": "For purchases of £5.00 or more at the gift shop",
+    "limit": "Up to 10 tickets per person – first 300 tickets only",
+    "extra": [
+     "[Distribution location] You must present your receipt at the reception counter",
+     "*One coupon issued for every ¥500 spent/Three coupons issued for purchases of ¥1,500 or more"
+    ]
+   },
+   "zh-Hant": {
+    "name": "特別紀念車票",
+    "when": "7月19日 8:00 起，售完為止",
+    "cond": "在商店消費滿 500 日圓（含稅）的顧客",
+    "limit": "每人最多 10 張，限量 300 張，售完為止。",
+    "extra": [
+     "【發放地點】請務必在櫃檯出示收據",
+     "※每 500 日圓發放一張／購買 1500 日圓可獲得 3 張"
+    ]
+   },
+   "ko": {
+    "name": "특별 기념 승차권",
+    "when": "7/19 8:00~ 매진 시 종료",
+    "cond": "매장에서 500엔(세금 포함) 이상 구매하신 분",
+    "limit": "1인당 10장까지・선착순 300장",
+    "extra": [
+     "[배포 장소] 영수증을 접수 카운터에 제시 필수",
+     "※ 500엔마다 1장 증정/1,500엔 구매 시 3장"
+    ]
+   }
+  },
+  "0c419a3a6a": {
+   "key": "159329fea883",
+   "en": {
+    "name": "Jubilo Iwata Omaezaki City First Training Camp Special Commemorative Ticket",
+    "when": "18–20 July, from 8:00 each day",
+    "cond": "Customers who have made purchases of over £20 at our retail outlets",
+    "limit": "No limit on the number of copies distributed",
+    "extra": [
+     "*One coupon per transaction",
+     "* 100 copies distributed each day"
+    ]
+   },
+   "zh-Hant": {
+    "name": "磐田Jubilo足球隊御前崎市首度集訓特別紀念票券",
+    "when": "7 月 18 日至 7 月 20 日，每天上午 8:00 起",
+    "cond": "在銷售據點消費滿 2,000 日圓以上者",
+    "limit": "發放數量無限制",
+    "extra": [
+     "※每筆帳單發放一張",
+     "※每天發放 100 張"
+    ]
+   },
+   "ko": {
+    "name": "주빌로 이와타 오마에자키시 첫 캠프 특별 기념 승차권",
+    "when": "7/18~7/20 매일 8:00~",
+    "cond": "판매 시설에서 2,000엔 이상 구매하신 분",
+    "limit": "배포 수량 제한 없음",
+    "extra": [
+     "※ 1회 결제당 1장 배포",
+     "※ 매일 100장씩 배포"
+    ]
+   }
+  },
+  "0767866b81": {
+   "key": "57584efcc173",
+   "en": {
+    "name": "3rd Anniversary of Renewal Ticket",
+    "when": "From 8:00 on 19 July until stocks last",
+    "cond": "For purchases over £5.00 at the roadside station shop",
+    "limit": "No limit on the number of copies distributed",
+    "extra": [
+     "*First 300 people",
+     "*One voucher per transaction"
+    ]
+   },
+   "zh-Hant": {
+    "name": "改版 3 週年紀念車票",
+    "when": "7月19日 8:00 起，售完為止",
+    "cond": "在公路休息站商店消費滿 500 日圓以上者",
+    "limit": "無發放數量限制",
+    "extra": [
+     "※前 300 名",
+     "※每筆帳單發放一張"
+    ]
+   },
+   "ko": {
+    "name": "리뉴얼 3주년 기념 승차권",
+    "when": "7/19 8:00~ 매진 시 종료",
+    "cond": "로드스테이션 매점에서 500엔 이상 구매한 고객",
+    "limit": "배포 수량 제한 없음",
+    "extra": [
+     "※ 선착순 300명",
+     "※1건의 결제당 1장 배포"
+    ]
+   }
+  },
+  "91343f5b59": {
+   "key": "aa076d767865",
+   "en": {
+    "name": "Special commemorative ticket for reaching 10,000",
+    "when": "From 9:00 on 18 July until sold out",
+    "cond": "One per customer who spends over £1000 on merchandise (optional)",
+    "limit": "Unlimited number of copies can be distributed"
+   },
+   "zh-Hant": {
+    "name": "突破一萬張特別紀念車票",
+    "when": "7月18日 9:00 起，售完為止",
+    "cond": "購買商品滿 1,000 日圓以上者可獲得一張（自願）",
+    "limit": "無發放數量限制"
+   },
+   "ko": {
+    "name": "1만 번 돌파 특별 기념 승차권",
+    "when": "7/18 9:00~ 매진 시 종료",
+    "cond": "상품 1,000엔 이상 구매 고객 1장(희망자)",
+    "limit": "배포 수량 제한 없음"
+   }
+  },
+  "78d094ebb3": {
+   "key": "99d42ff4335d",
+   "en": {
+    "name": "6th Anniversary Special Commemorative Ticket",
+    "when": "18–20 July, from 9:00 each day",
+    "cond": "For purchases over £5.00 at the Water Market",
+    "limit": "One per person",
+    "extra": [
+     "* 100 copies distributed each day"
+    ]
+   },
+   "zh-Hant": {
+    "name": "開幕 6 週年特別紀念票券",
+    "when": "7月18日至20日，每天 9:00 起",
+    "cond": "在水市場消費滿 500 日圓以上者",
+    "limit": "每人一張",
+    "extra": [
+     "※每天發放 100 張"
+    ]
+   },
+   "ko": {
+    "name": "개장 6주년 특별 기념 티켓",
+    "when": "7/18~20 매일 9:00~",
+    "cond": "물의 시장에서 500엔 이상 구매하신 분",
+    "limit": "1인 1매",
+    "extra": [
+     "※ 매일 100장씩 배포"
+    ]
+   }
+  },
+  "ddabd5a957": {
+   "key": "462813372991",
+   "en": {
+    "name": "2026 Special Commemorative Ticket",
+    "when": "From 9:00 on 18 July until stocks last ➡ From 9:00 on 25 July (Saturday) until stocks last",
+    "cond": "One for customers who spend over £5.00 at the farm shop",
+    "limit": "Unlimited number of copies for distribution",
+    "extra": [
+     "*Limited distribution of 200 copies",
+     "Roadside station",
+     "Distribution of \"Kasama\" has ended as of 3 August 2026"
+    ]
+   },
+   "zh-Hant": {
+    "name": "2026年特別紀念車票",
+    "when": "7月18日 9:00 起，售完為止 ➡ 7月25日（六）9:00 起，售完為止",
+    "cond": "在直營店消費滿 500 日圓以上者可獲得一張",
+    "limit": "發放數量無上限",
+    "extra": [
+     "※限量 200 張發放",
+     "「公路休息站」",
+     "「笠間」的贈品已發放完畢。截至 2026 年 8 月 3 日。"
+    ]
+   },
+   "ko": {
+    "name": "2026년 특별 기념 승차권",
+    "when": "7/18 9:00~ 매진 시 종료 ➡ 7/25(토) ~ 9:00~ 매진 시 종료",
+    "cond": "직판소에서 500엔 이상 구매하신 분께 1장",
+    "limit": "배포 수량 제한 없음",
+    "extra": [
+     "※200장 한정 배포",
+     "[로드스테이션",
+     "카사마 \"님은 배포가 종료되었습니다. 2026년 8월 3일 현재"
+    ]
+   }
+  },
+  "94c8056099": {
+   "key": "cfb26d8a9a8d",
+   "en": {
+    "name": "Ticket to commemorate the 21st anniversary of registration as a World Natural Heritage Site",
+    "when": "17 July, 9:30–until sold out",
+    "cond": "Customers who have made a purchase at one of the following locations: Roadside Station Tourist Information Centre, Seafood Workshop, or Shinsoukan",
+    "limit": "Limited to one per person",
+    "extra": [
+     "[Distribution Location] Please present your receipt to a member of staff at the Tourist Information Centre."
+    ]
+   },
+   "zh-Hant": {
+    "name": "世界自然遺產登錄 21 週年紀念車票",
+    "when": "7月17日 9:30 起，售完為止",
+    "cond": "在「道路休息站觀光案內所」、「海鮮工房」或「深層館」購買商品的人士",
+    "limit": "每人限領一張",
+    "extra": [
+     "【發放地點】請向旅客服務中心的工作人員出示收據。"
+    ]
+   },
+   "ko": {
+    "name": "세계자연유산 등재 21주년 기념 승차권",
+    "when": "7/17 9:30~ 매진 시 종료",
+    "cond": "로드스테이션 관광 안내소·해산물 공방·신조칸 중 한 곳에서 쇼핑하신 분",
+    "limit": "1인 1매까지",
+    "extra": [
+     "[배포 장소] 관광 안내소 직원에게 영수증을 제시해 주십시오."
+    ]
+   }
+  },
+  "6d2637e5ea": {
+   "key": "7230234a778a",
+   "en": {
+    "name": "8th Anniversary Special Commemorative Ticket",
+    "when": "From 18 July until stocks last",
+    "cond": "Distributed to the first 200 people who request it",
+    "limit": "Limited to one per person"
+   },
+   "zh-Hant": {
+    "name": "8週年特別紀念車票",
+    "when": "7 月 18 日起，售完為止",
+    "cond": "將發放給前 200 名有興趣的參加者",
+    "limit": "每人限領一張"
+   },
+   "ko": {
+    "name": "8주년 특별 기념 승차권",
+    "when": "7/18~ 소진 시 종료",
+    "cond": "선착순 200명・희망자에게 배포",
+    "limit": "1인당 1장까지"
+   }
+  },
+  "5bce45a85c": {
+   "key": "36f1222e11b1",
+   "en": {
+    "name": "10th Anniversary Ticket",
+    "when": "18–20 July only – 100 vouchers distributed each day",
+    "cond": "One for customers who spend over £1000 on merchandise",
+    "limit": "Limited to one per person",
+    "extra": [
+     "* Presentation of purchase receipt or ticket stub"
+    ]
+   },
+   "zh-Hant": {
+    "name": "10週年紀念車票",
+    "when": "僅限 7 月 18 日至 20 日・每天發放 100 張",
+    "cond": "購買商品滿 1000 日圓以上者可獲得一張",
+    "limit": "每人限領一張",
+    "extra": [
+     "※出示購買收據或存根"
+    ]
+   },
+   "ko": {
+    "name": "10주년 기념 승차권",
+    "when": "7/18~20일 한정・ 매일 100장씩 배포",
+    "cond": "상품 1,000엔 이상 구매 시 1장",
+    "limit": "1인당 1장까지",
+    "extra": [
+     "※ 구매 영수증, 티켓 반권 제시"
+    ]
+   }
+  },
+  "76e412fef9": {
+   "key": "b6f6a236d4e9",
+   "en": {
+    "name": "1st Anniversary of the Opening of the Roadside Station",
+    "when": "From 18/07 to 20/07 only – while stocks last",
+    "cond": "Exclusively for guests using the lounge/dining area",
+    "limit": "Limit of one per person",
+    "extra": [
+     "*One coupon will be given for each receipt of 1,111 yen or more.",
+     "* As there are not 100 tickets available for each of the 3 days, distribution may end on the first day."
+    ]
+   },
+   "zh-Hant": {
+    "name": "公路休息站開業一週年紀念",
+    "when": "僅限 7 月 18 日至 7 月 20 日，售完為止。",
+    "cond": "僅限使用客廳兼餐廳的顧客",
+    "limit": "每人限領一張",
+    "extra": [
+     "※每張消費金額滿 1,111 日圓的收據可獲得一張貼紙。",
+     "※由於不是每天 100 張，因此有可能在第一天就發完。"
+    ]
+   },
+   "ko": {
+    "name": "로드 스테이션 개업 1주년 기념",
+    "when": "7/18~7/20 한정·소진 시 종료",
+    "cond": "다이닝 룸을 이용하는 고객 한정",
+    "limit": "1인당 1장까지",
+    "extra": [
+     "※ 결제 금액 1,111엔 이상 영수증 1장당 1장 증정",
+     "※ 3일간 각 100장이 아니기 때문에 첫날 배포가 종료되는 경우도 있습니다."
+    ]
    }
   }
  },
