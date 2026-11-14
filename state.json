@@ -22391,6 +22391,151 @@
     "ended": null
    },
    {
+    "posted": "2026-11-06",
+    "pref": "北海道",
+    "station": "オーロラタウン93りくべつ",
+    "name": "しばれ君つららちゃん恋人15周年特別記念きっぷ",
+    "when": "11/21 9:00～",
+    "cond": "陸別町観光物産館にて1000円以上お買上の方",
+    "limit": "配布枚数制限なし",
+    "mail": "NG",
+    "phone": "NG",
+    "extra": [
+     "※1会計につき1枚"
+    ],
+    "id": "fa689de5c9",
+    "start": "2026-11-21",
+    "end": null,
+    "ended": null
+   },
+   {
+    "posted": "2026-11-06",
+    "pref": "北海道",
+    "station": "阿寒丹頂の里",
+    "name": "クレインズテラス10周年記念",
+    "when": "11/21～ 9：00～なくなり次第終了",
+    "cond": "物販500円以上購入の方に1枚",
+    "limit": "お１人様1枚まで",
+    "mail": "NG",
+    "phone": "OK",
+    "extra": [],
+    "id": "4476d20100",
+    "start": "2026-11-21",
+    "end": null,
+    "ended": null
+   },
+   {
+    "posted": "2026-11-06",
+    "pref": "山形県",
+    "station": "米沢",
+    "name": "道の駅米沢 感謝祭特別記念きっぷ",
+    "when": "11/21 10:00～なくなり次第終了",
+    "cond": "当日のお買物1000円以上レシートの掲示",
+    "limit": "お1人様1枚迄",
+    "mail": "NG",
+    "phone": "NG",
+    "extra": [],
+    "id": "2d4ff433c9",
+    "start": "2026-11-21",
+    "end": null,
+    "ended": null
+   },
+   {
+    "posted": "2026-11-06",
+    "pref": "栃木県",
+    "station": "しもつけ",
+    "name": "下野市制施行20周年記念きっぷ",
+    "when": "11/20 9:00～",
+    "cond": "直売物産施設で1000円購入毎に1枚(希望者)",
+    "limit": "配布枚数制限なし",
+    "mail": "NG",
+    "phone": "OK",
+    "extra": [
+     "【配布場所】インフォメーションにて配布",
+     "※当日のお買上レシート必須"
+    ],
+    "id": "f253be61cf",
+    "start": "2026-11-20",
+    "end": null,
+    "ended": null
+   },
+   {
+    "posted": "2026-11-06",
+    "pref": "石川県",
+    "station": "内灘サンセットパーク",
+    "name": "特別記念きっぷ2026",
+    "when": "11/21～なくなり次第終了",
+    "cond": "物販コーナーOTAKARA MARKETで1080円(税込)以上お買上に1枚",
+    "limit": "1回のお会計につき､お1人様1枚まで",
+    "mail": "NG",
+    "phone": "OK",
+    "extra": [
+     "【配布枚数】290枚(10枚は関係者に配布)",
+     "※物販コーナーでお買上の際｢特別記念きっぷ下さい｣とお声がけ下さい",
+     "※2枚目以降をご希望の方は再度ご購入しレジに並んで下さい"
+    ],
+    "id": "7767af08fb",
+    "start": "2026-11-21",
+    "end": null,
+    "ended": null
+   },
+   {
+    "posted": "2026-11-06",
+    "pref": "静岡県",
+    "station": "ゆとりえせとや",
+    "name": "ちょっくら収穫祭開催記念",
+    "when": "11/21 9:00～なくなり次第終了",
+    "cond": "大感謝抽選会参加者",
+    "limit": "お１人様1枚まで",
+    "mail": "NG",
+    "phone": "NG",
+    "extra": [
+     "※抽選会の参加には収穫祭で概ね1000円程のお買物で 発行される抽選券が必要です"
+    ],
+    "id": "31a9651764",
+    "start": "2026-11-21",
+    "end": null,
+    "ended": null
+   },
+   {
+    "posted": "2026-11-06",
+    "pref": "奈良県",
+    "station": "クロスウェイなかまち",
+    "name": "開駅二周年記念きっぷ",
+    "when": "11/21～11/30のみ配布",
+    "cond": "当日レシート3000円(合算可）ご利用の方に1枚",
+    "limit": "レシート1枚につき1枚(レシート合算可)",
+    "mail": "NG",
+    "phone": "NG",
+    "extra": [
+     "※3000円毎ではありません",
+     "（高額購入でも1枚のレシートで複数選択は出来ません／ 6000円でも1枚)",
+     "※駅内3店舗+観光案内所の当日レシートの金額に応じた粗品をご用意してます",
+     "※各日配布枚数を設定しております",
+     "11/21～11/23・11/28～29(50枚)・ 11/24～11/27・11/30(10枚)"
+    ],
+    "id": "91e7f8f197",
+    "start": "2026-11-21",
+    "end": "2026-11-30",
+    "ended": null
+   },
+   {
+    "posted": "2026-11-06",
+    "pref": "滋賀県",
+    "station": "竜王かがみの里",
+    "name": "満23周年記念切符",
+    "when": "11/21 9:00～なくなり次第終了",
+    "cond": "物販500円以上購入で配布",
+    "limit": "お1人様5枚迄",
+    "mail": "NG",
+    "phone": "NG",
+    "extra": [],
+    "id": "7eceedba22",
+    "start": "2026-11-21",
+    "end": null,
+    "ended": null
+   },
+   {
     "posted": "2026-11-04",
     "pref": "北海道",
     "station": "サロマ湖",
@@ -33965,7 +34110,7 @@
      "stock": "https://www.city.wakkanai.hokkaido.jp/kurashi/sumaisuido/gesui/mhcard.html"
     },
     {
-     "id": "01-215-A-01.jpg\r\n",
+     "id": "01-215-A-01",
      "pref": 1,
      "town": "美唄市",
      "code": "A001",
@@ -34325,7 +34470,7 @@
      "place": "道の駅いわない ガイドセンター たら丸館",
      "info": "道の駅いわない ガイドセンター たら丸館\n北海道岩内郡岩内町字万代47-4\n電話：0135-63-1155\n（問い合わせ先）\n岩内町役場建設水道部 上下水道課\n電話：0135-67-7093",
      "addr": "北海道岩内郡岩内町字万代47-4",
-     "hours": "【4～10月】9:00～18:00\n【11～3月】9:00～17:30\nただし、以下は休館日のため配布はお休みです\n月曜日（11/1～4/20まで）※月曜日が祝日の場合はその翌日\n年末年始（12/31～1/5）",
+     "hours": "【4～10月】9:00～18:00\n【11～3月】9:00～17:00\nただし、以下は休館日のため配布はお休みです\n月曜日（11/1～4/20まで）※月曜日が祝日の場合はその翌日\n年末年始（12/31～1/3）",
      "stock": "http://www.town.iwanai.hokkaido.jp/?page_id=372"
     },
     {
@@ -34342,7 +34487,7 @@
      "stock": "0135-42-2181までお問い合わせください"
     },
     {
-     "id": "01-424-A-01.jpg.",
+     "id": "01-424-A-01",
      "pref": 1,
      "town": "奈井江町",
      "code": null,
@@ -34732,7 +34877,7 @@
      "stock": "https://www.rikubetsu.jp/kurashi/suido/mannho-ruka-do/"
     },
     {
-     "id": "01-691-A-01.jpg\r\n",
+     "id": "01-691-A-01",
      "pref": 1,
      "town": "別海町",
      "code": null,
@@ -37097,7 +37242,7 @@
      "place": "まちの駅　新・鹿沼宿",
      "info": "まちの駅　新・鹿沼宿\n栃木県鹿沼市仲町1604-1\n電話：0289-60-2507",
      "addr": "栃木県鹿沼市仲町1604-1",
-     "hours": "9:00～19:00",
+     "hours": "9:00～18:00\nただし、毎月第2水曜日お休みです",
      "stock": "https://www.city.kanuma.tochigi.jp/0705/info-0000005483-0.html"
     },
     {
@@ -39144,7 +39289,7 @@
      "round": 13,
      "issued": "2020-12-17",
      "place": "東京観光情報センター 多摩",
-     "info": "東京観光情報センター 多摩\n東京都立川市柴崎町3-1-1「エキュート立川」3階\n電話：042-527-4281\n(問合せ先)\n東京都下水道局流域下水道本部管理課（平日のみ）\n電話：042-527-4281\n※東京観光情報センター多摩へのお問い合わせはご遠慮ください。",
+     "info": "東京観光情報センター 多摩\n東京都立川市柴崎町3-1-1「エキュート立川」3階\n(問合せ先)\n東京都下水道局流域下水道本部管理課（平日のみ）\n電話：042-527-4281\n※東京観光情報センター多摩へのお問い合わせはご遠慮ください。",
      "addr": "東京都立川市柴崎町3-1-1「エキュート立川」3階",
      "hours": "【平日・土】10：00～21：30\n【日・祝日】10：00〜20：00\n※ただし、エキュート立川の営業時間に応じて変更する場合があります。",
      "stock": "https://www.gesui.metro.tokyo.lg.jp/about/gaiyou/ryuiki50"
@@ -39560,7 +39705,7 @@
      "round": 15,
      "issued": "2021-11-05",
      "place": "①一般社団法人 大田観光協会",
-     "info": "①一般社団法人 大田観光協会\n大田区南蒲田1-20-20 大田区産業プラザ2階\n②大田区立郷土博物館\n大田区南馬込5-11-13\n(問合せ先)\n大田区産業経済部産業経済課\n電話：03-5744-1322",
+     "info": "①一般社団法人 大田観光協会\n大田区南蒲田1-20-20 大田区産業プラザ2階\n②大田区立郷土博物館\n大田区南馬込5-11-13\n(問合せ先)\n大田区産業経済部産業経済課\n電話：03-5744-1322\n※2026年11月30日～2027年3月31日（予定）まで大田区立郷土博物館が工事休館となるため、大田観光協会のみでの配布となります。あらかじめご了承ください",
      "addr": "大田区南蒲田1-20-20 大田区産業プラザ2階",
      "hours": "①9:00～17:00\nただし、土曜日/日曜日/祝日/年末年始はお休みです\n②9:00～17:00\nただし、月曜日（休日・祝日は開館）、年末年始、他（展示替え等により臨時休館あり）はお休みです",
      "stock": "https://www.city.ota.tokyo.jp/kanko/topics/hanepyon_manhole.html"
@@ -41830,7 +41975,7 @@
      "place": "氷見市漁業文化交流センター",
      "info": "氷見市漁業文化交流センター\n富山県氷見市中央町７番１号\n電話：0766-74-8018\n（問い合わせ先）\n氷見市役所建設部上下水道課\n電話：0766-74-8207（平日8：30～17：15）",
      "addr": "富山県氷見市中央町７番１号",
-     "hours": "9：00～17：00\nただし、毎週水曜（祝日の場合は翌日）、祝日の翌平日及び年末年始はお休みです",
+     "hours": "9：00～16：30（最終入館時間）\nただし、毎週水曜（祝日の場合は翌日）、祝日の翌平日及び年末年始はお休みです",
      "stock": "https://www.city.himi.toyama.jp/gyosei/soshiki/jogesuido/1/4/1261.html"
     },
     {
@@ -42590,10 +42735,10 @@
      "round": 11,
      "issued": "2019-12-14",
      "place": "諏訪市観光案内所",
-     "info": "諏訪市観光案内所\n長野県諏訪市諏訪1-1-18　ＪＲ上諏訪駅内\n電話：0266-58-0120\n(問合せ先)\n諏訪市水道局施設課下水道係\n電話：0266-52-4141",
+     "info": "諏訪市観光案内所\n長野県諏訪市諏訪1-1-18　ＪＲ上諏訪駅内\n電話：0266-58-0120\n(問合せ先)\n諏訪市建設水道部水道課下水道係\n電話：0266-52-4141",
      "addr": "長野県諏訪市諏訪1-1-18　ＪＲ上諏訪駅内",
      "hours": "9:00～17:30\nただし、年末年始(12月29日～1月3日)はお休みです",
-     "stock": "https://www.city.suwa.lg.jp/soshiki/24/3618.html"
+     "stock": "https://www.city.suwa.lg.jp/soshiki/23/79232.html"
     },
     {
      "id": "20-208-A-01",
@@ -45102,7 +45247,7 @@
      "stock": "https://www.city.koka.lg.jp/24108.htm"
     },
     {
-     "id": "25-209-B-01.jpg\r\n",
+     "id": "25-209-B-01",
      "pref": 25,
      "town": "甲賀市",
      "code": "B001",
@@ -63371,17 +63516,17 @@
   }
  },
  "sources": {
-  "michieki": "2026-11-07T04:30:31+00:00",
-  "apt_status": "2026-11-13T01:36:30+00:00",
-  "apt_specials": "2026-11-13T01:36:30+00:00",
-  "apt_notices": "2026-11-13T01:36:30+00:00",
-  "chubu": "2026-11-07T04:30:31+00:00",
-  "manhole": "2026-11-07T04:30:31+00:00",
+  "michieki": "2026-11-14T01:10:12+00:00",
+  "apt_status": "2026-11-14T01:10:12+00:00",
+  "apt_specials": "2026-11-14T01:10:12+00:00",
+  "apt_notices": "2026-11-14T01:10:12+00:00",
+  "chubu": "2026-11-14T01:10:12+00:00",
+  "manhole": "2026-11-14T01:10:12+00:00",
   "details": "2026-11-13T01:36:30+00:00"
  },
  "notes": [
-  "translation: daily allowance reached (4383 characters); the rest continues tomorrow",
-  "translation: 4383 characters with MyMemory"
+  "translation: daily allowance reached (4194 characters); the rest continues tomorrow",
+  "translation: 4194 characters with MyMemory"
  ],
  "translations": {
   "0c0c821cc1": {
@@ -66811,6 +66956,441 @@
      "※ 결제 금액 1,111엔 이상 영수증 1장당 1장 증정",
      "※ 3일간 각 100장이 아니기 때문에 첫날 배포가 종료되는 경우도 있습니다."
     ]
+   }
+  },
+  "f253be61cf": {
+   "key": "142a1bacb8e5",
+   "en": {
+    "name": "Ticket to commemorate the 20th anniversary of the establishment of Shimotsuke City",
+    "when": "From 9:00 on 20 November",
+    "cond": "One ticket for every ¥1,000 spent at the direct sales facility (for those who wish to enter)",
+    "limit": "No limit on the number of copies distributed",
+    "extra": [
+     "[Distribution location] Distributed at the Information Desk",
+     "* Receipt for purchases made on the same day is required"
+    ]
+   },
+   "zh-Hant": {
+    "name": "下野市制施行 20 週年紀念車票",
+    "when": "11 月 20 日 9:00 起",
+    "cond": "在直銷特產設施每消費 1,000 日圓可獲得 1 張（自願參加）",
+    "limit": "無發放數量限制",
+    "extra": [
+     "【發放地點】在諮詢處發放",
+     "※須出示當日的購物收據"
+    ]
+   },
+   "ko": {
+    "name": "시모쓰케시 자치제 시행 20주년 기념 승차권",
+    "when": "11/20 9:00~",
+    "cond": "직판 특산품 시설에서 1,000엔 구매 시마다 1장(희망자)",
+    "limit": "배포 수량 제한 없음",
+    "extra": [
+     "[배포 장소] 안내소에서 배포",
+     "※ 당일 구매 영수증 필수"
+    ]
+   }
+  },
+  "fa689de5c9": {
+   "key": "655c671a3fb5",
+   "en": {
+    "name": "Shibare-kun and Tsura-chan 15th Anniversary Special Commemorative Ticket",
+    "when": "From 21 November 9:00",
+    "cond": "For those who spend over ¥1,000 at the Rikubetsu Town Tourist Products Centre",
+    "limit": "No limit on the number of copies distributed",
+    "extra": [
+     "*One per transaction"
+    ]
+   },
+   "zh-Hant": {
+    "name": "冰冰君與冰柱醬戀愛 15 週年特別紀念票券",
+    "when": "11月21日 9:00 起",
+    "cond": "在陸別町觀光特產館消費滿 1000 日圓以上者",
+    "limit": "無發放數量限制",
+    "extra": [
+     "※每筆帳單限領一張"
+    ]
+   },
+   "ko": {
+    "name": "시바레군 쓰라짱 연인 15주년 특별 기념 티켓",
+    "when": "11/21 9:00~",
+    "cond": "리쿠베쓰정 관광 특산품관에서 1,000엔 이상 구매하신 분",
+    "limit": "배포 수량 제한 없음",
+    "extra": [
+     "※ 1회 결제당 1장"
+    ]
+   }
+  },
+  "4476d20100": {
+   "key": "37563d7037c6",
+   "en": {
+    "name": "Cranes Terrace 10th Anniversary",
+    "when": "21 November – from 9:00 until sold out",
+    "cond": "One for customers who spend over £500 on merchandise",
+    "limit": "Limit of one per person"
+   },
+   "zh-Hant": {
+    "name": "Cranes Terrace 10 週年紀念",
+    "when": "11月21日起，上午 9:00 開始，售完為止",
+    "cond": "購買商品滿 500 日圓以上者可獲得一張",
+    "limit": "每人限領一張"
+   },
+   "ko": {
+    "name": "크레인즈 테라스 10주년 기념",
+    "when": "11/21~ 9:00~ 소진 시 종료",
+    "cond": "상품 500엔 이상 구매 시 1장",
+    "limit": "1인당 1장까지"
+   }
+  },
+  "2d4ff433c9": {
+   "key": "a3367c2992bc",
+   "en": {
+    "name": "Roadside Station Yonezawa Thanksgiving Special Commemorative Ticket",
+    "when": "From 10:00 on 21 November until sold out",
+    "cond": "Presentation of a receipt for purchases of £10 or more made on the same day",
+    "limit": "Limited to one per person"
+   },
+   "zh-Hant": {
+    "name": "米澤公路休息站感恩節特別紀念票券",
+    "when": "11 月 21 日 10:00 起，售完為止",
+    "cond": "出示當日消費滿 1000 日圓以上的收據",
+    "limit": "每人限領一張"
+   },
+   "ko": {
+    "name": "로드스테이션 요네자와 감사제 특별 기념 승차권",
+    "when": "11/21 10:00~ 소진 시 종료",
+    "cond": "당일 구매 1,000엔 이상 영수증 제시",
+    "limit": "1인당 1장까지"
+   }
+  },
+  "7767af08fb": {
+   "key": "01d4aecbad20",
+   "en": {
+    "name": "Special Commemorative Ticket 2026",
+    "when": "From 21 November until stocks last",
+    "cond": "One ticket for every purchase of 1,080 yen (including tax) or more at the merchandise corner, OTAKARA MARKET",
+    "limit": "Limited to one per person per transaction",
+    "extra": [
+     "[Number of copies distributed] 290 (10 copies distributed to stakeholders)",
+     "* When making a purchase at the merchandise counter, please say \"I would like the special commemorative ticket\".",
+     "*If you would like to purchase more than one ticket, please purchase again and queue at the till."
+    ]
+   },
+   "zh-Hant": {
+    "name": "2026年特別紀念車票",
+    "when": "11 月 21 日起，售完為止",
+    "cond": "在商品販售區OTAKARA MARKET消費滿 1,080 日圓（含稅）即可獲得一張",
+    "limit": "每筆帳單每人限用一張",
+    "extra": [
+     "【發放數量】290 份（其中 10 份發放給相關人士）",
+     "※在商品販售區購買時，請說「請給我特別紀念車票」。",
+     "※若想購買第二張以上的票券，請再次購買並排隊結帳。"
+    ]
+   },
+   "ko": {
+    "name": "특별 기념 승차권 2026",
+    "when": "11/21~ 소진 시 종료",
+    "cond": "물품 판매 코너 OTAKARA MARKET에서 1,080엔(세금 포함) 이상 구매 시 1장",
+    "limit": "1회 결제 시 1인 1매까지",
+    "extra": [
+     "[배포 수량] 290장(10장은 관계자에게 배포)",
+     "※ 상품 판매 코너에서 구매하실 때 \"특별 기념 승차권을 주세요\"라고 말씀해 주십시오.",
+     "※ 2장 이상을 원하시는 분은 다시 구매하신 후 계산대에 줄을 서 주시기 바랍니다."
+    ]
+   }
+  },
+  "31a9651764": {
+   "key": "3321e259d9c9",
+   "en": {
+    "name": "To celebrate the Harvest Festival",
+    "when": "From 9:00 on 21 November until stocks last",
+    "cond": "Participants in the Special Thanks Raffle",
+    "limit": "Limit of one per person",
+    "extra": [
+     "*To enter the raffle, you need a raffle ticket issued for purchases of around ¥1,000 at the Harvest Festival."
+    ]
+   },
+   "zh-Hant": {
+    "name": "小小收穫祭舉辦紀念",
+    "when": "11 月 21 日 9:00 起，售完為止",
+    "cond": "感謝抽獎活動的參與者",
+    "limit": "每人限領一張",
+    "extra": [
+     "※參加抽獎活動需要抽獎券，該抽獎券會在豐收祭期間購物滿 1,000 日圓時發放。"
+    ]
+   },
+   "ko": {
+    "name": "잠깐의 수확제 개최 기념",
+    "when": "11/21 9:00~ 소진 시 종료",
+    "cond": "대감사 추첨 행사 참가자",
+    "limit": "1인 1매까지",
+    "extra": [
+     "※ 추첨회에 참여하려면 수확제에서 약 1,000엔 상당의 쇼핑 시 발급되는 추첨권이 필요합니다."
+    ]
+   }
+  },
+  "91e7f8f197": {
+   "key": "fdfc44f6045e",
+   "en": {
+    "name": "Ticket to commemorate the second anniversary of the station opening",
+    "when": "Available only from 21/11 to 30/11",
+    "cond": "One ticket for customers with receipts totalling ¥3,000 (can be combined) on the same day",
+    "limit": "One entry per receipt (receipts can be combined)",
+    "extra": [
+     "*Not for every ¥3,000 spent",
+     "(Even for high-value purchases, you cannot select multiple items on a single receipt/Even for 6,000 yen, only one item can be selected)",
+     "*We offer complimentary gifts based on the total amount of receipts from three shops within the station and the tourist information centre on the same day.",
+     "* The number of copies distributed each day has been set.",
+     "21–23 November, 28–29 November (50 tickets), 24–27 November, 30 November (10 tickets)"
+    ]
+   },
+   "zh-Hant": {
+    "name": "車站啟用兩週年紀念車票",
+    "when": "僅於 11 月 21 日至 11 月 30 日期間發放",
+    "cond": "當日消費滿 3000 日圓（可合併計算）即可獲得一張。",
+    "limit": "每張收據一張（可合併多張收據）",
+    "extra": [
+     "※並非每 3,000 日圓",
+     "（即使是高額消費，一張收據也無法選擇多項優惠／即使是 6,000 日圓，也只能選擇一項優惠）",
+     "※我們會根據您在車站內 3 家商店與觀光案內所當日的消費金額，提供相應的贈品。",
+     "※已設定每日發放的數量。",
+     "11 月 21 日至 11 月 23 日、11 月 28 日至 29 日（50 張）、11 月 24 日至 11 月 27 日、11 月 30 日（10 張）"
+    ]
+   },
+   "ko": {
+    "name": "개업 2주년 기념 승차권",
+    "when": "11월 21일~11월 30일 한정 배포",
+    "cond": "당일 영수증 3,000엔(합산 가능) 이용 고객에게 1장",
+    "limit": "영수증 1장당 1장(영수증 합산 가능)",
+    "extra": [
+     "※ 3,000엔마다 적용되는 것이 아닙니다.",
+     "(고액 구매 시에도 한 장의 영수증으로 여러 개를 선택할 수 없습니다/6,000엔이어도 1장)",
+     "※ 역 내 3개 매장 + 관광 안내소의 당일 영수증 금액에 따른 사은품을 준비하고 있습니다.",
+     "※ 각 날짜별 배포 매수를 설정했습니다.",
+     "11/21~11/23・11/28~29(50장)・ 11/24~11/27・11/30(10장)"
+    ]
+   }
+  },
+  "7eceedba22": {
+   "key": "724e5e33faa0",
+   "en": {
+    "name": "23rd Anniversary Ticket",
+    "when": "From 9:00 on 21 November until stocks last",
+    "cond": "Distributed with purchases of merchandise over £500",
+    "limit": "Up to 5 per person"
+   },
+   "zh-Hant": {
+    "name": "滿 23 週年紀念車票",
+    "when": "11月21日 9:00 起，售完為止",
+    "cond": "購買商品滿 500 日圓以上即可獲得",
+    "limit": "每人最多 5 張"
+   },
+   "ko": {
+    "name": "만 23주년 기념 티켓",
+    "when": "11/21 9:00~ 매진 시 종료",
+    "cond": "상품 500엔 이상 구매 시 증정",
+    "limit": "1인당 최대 5장"
+   }
+  },
+  "b1b34234aa": {
+   "key": "1f0b4ebfe340",
+   "en": {
+    "name": "Ticket to commemorate the reopening of the entire building after refurbishment",
+    "when": "From 12:00 on 18 July until sold out",
+    "cond": "See 12 below",
+    "limit": "One per person",
+    "extra": [
+     "1. Gifts for the first 100 people on the day",
+     "2 remaining. 200 regular tickets. 1 free ticket for every 1 ticket purchased."
+    ]
+   },
+   "zh-Hant": {
+    "name": "全館翻新開幕紀念票券",
+    "when": "7月18日 12:00 起，售完為止",
+    "cond": "請參閱以下第 12 點",
+    "limit": "每人限領一張",
+    "extra": [
+     "1當天前 100 名入場的顧客可獲得贈品",
+     "尚餘 2 張，每購買 1 張普通券即贈送 1 張"
+    ]
+   },
+   "ko": {
+    "name": "전관 리뉴얼 오픈 기념 티켓",
+    "when": "7/18 12:00~ 매진 시 종료",
+    "cond": "아래 12 참조",
+    "limit": "1인 1매까지",
+    "extra": [
+     "1 당일 선착순 100명에게 선물 증정",
+     "2장 남음 200장 일반권 1장 구매 시 1장 증정"
+    ]
+   }
+  },
+  "3ef00d75c4": {
+   "key": "9d0063fc945a",
+   "en": {
+    "name": "Special ticket to commemorate the 11th anniversary of our opening",
+    "when": "Distributed only from 18/07 to 20/07",
+    "cond": "Customers wishing to purchase merchandise worth over £1000",
+    "limit": "Unlimited number of copies for distribution"
+   },
+   "zh-Hant": {
+    "name": "開幕 11 週年特別紀念票券",
+    "when": "僅於 7 月 18 日至 7 月 20 日期間發放",
+    "cond": "希望購買超過 1,000 日圓商品的顧客",
+    "limit": "無發放數量限制"
+   },
+   "ko": {
+    "name": "개장 11주년 특별 기념 승차권",
+    "when": "7/18~7/20에만 배포",
+    "cond": "상품 1,000엔 이상 구매를 희망하는 사람",
+    "limit": "배포 수량 제한 없음"
+   }
+  },
+  "101b2daeb4": {
+   "key": "eba2cf4c6dac",
+   "en": {
+    "name": "Ticket to commemorate the 25th anniversary of the opening of the roadside station",
+    "when": "From 5:00 am on 15 July until sold out",
+    "cond": "One given out for every regular ticket purchased",
+    "limit": "Up to 3 per person"
+   },
+   "zh-Hant": {
+    "name": "公路休息站開業 25 週年紀念票券",
+    "when": "7月15日上午 5:00 起，售完為止",
+    "cond": "每購買一張普通票券，即可獲得一張",
+    "limit": "每人最多 3 張"
+   },
+   "ko": {
+    "name": "로드스테이션 개업 25주년 기념 승차권",
+    "when": "7/15 AM5:00~ 소진 시 종료",
+    "cond": "일반권 1장 구매 시 1장 배포",
+    "limit": "1인당 3장까지"
+   }
+  },
+  "1022d4b284": {
+   "key": "649c0cc28f99",
+   "en": {
+    "name": "Komono Town 70th Anniversary Ticket",
+    "when": "10 July from 9:00 until sold out",
+    "cond": "One coupon for every £15 spent at Furusato-kan",
+    "limit": "No limit on the number of vouchers distributed ➡ Changed to up to 5 vouchers per person",
+    "mail": "Change from OK ➡ to NG",
+    "phone": "Change from OK ➡ to NG"
+   },
+   "zh-Hant": {
+    "name": "菰野町70週年紀念車票",
+    "when": "7月10日 9:00 起，售完為止",
+    "cond": "在鄉土館每消費滿 2,000 日圓即可獲得一張",
+    "limit": "無發放數量限制 ➡ 改為每人最多 5 張",
+    "mail": "OK ➡ 變更為 NG",
+    "phone": "OK ➡ 變更為 NG"
+   },
+   "ko": {
+    "name": "고마노정 70주년 기념 승차권",
+    "when": "7/10 9:00~ 매진 시 종료",
+    "cond": "후루사토관에서 2,000엔 이상 구매 시마다 1장",
+    "limit": "배포 매수 제한 없음 ➡ 1인당 5매까지로 변경",
+    "mail": "OK ➡ NG로 변경",
+    "phone": "OK ➡ NG로 변경"
+   }
+  },
+  "7f3a72f5e7": {
+   "key": "312e6c4e3fd7",
+   "en": {
+    "name": "Special commemorative ticket for the 8th anniversary of the station's opening",
+    "when": "11 July from 9:00 until sold out",
+    "cond": "One standard ticket per purchase",
+    "limit": "Unlimited number of copies for distribution",
+    "mail": "Not allowed (only for in-store visitors)",
+    "extra": [
+     "Roadside station",
+     "Distribution of \"Kita Okhotsk Monbetsu\" has ended as of 21 July 2026."
+    ]
+   },
+   "zh-Hant": {
+    "name": "車站啟用 8 週年特別紀念車票",
+    "when": "7月11日 9:00 起，售完為止",
+    "cond": "購買普通票者可獲得一張",
+    "limit": "發放數量無限制",
+    "mail": "不可（僅限現場顧客）",
+    "extra": [
+     "「公路休息站」",
+     "「北鄂霍次克町紋別」已停止發放。截至 2026 年 7 月 21 日"
+    ]
+   },
+   "ko": {
+    "name": "개업 8주년 특별 기념 승차권",
+    "when": "7/11 9:00~ 소진 시 종료",
+    "cond": "일반권을 구매하신 분께 1장",
+    "limit": "배포 수량 제한 없음",
+    "mail": "NG(매장 방문자만 해당)",
+    "extra": [
+     "｢로드스테이션",
+     "북오호츠크 마톤베쓰'는 배포가 종료되었습니다. 2026년 7월 21일 현재"
+    ]
+   }
+  },
+  "0293f84d77": {
+   "key": "f322c14809bc",
+   "en": {
+    "name": "90th Anniversary of the Opening of the Entire Japan National Railways Kohoku Line",
+    "when": "7 July from 9:00 until sold out",
+    "cond": "One point for every £5 spent at the Exchange Shop",
+    "limit": "Up to 3 per person"
+   },
+   "zh-Hant": {
+    "name": "國鐵興濱北線全線通車 90 週年紀念",
+    "when": "7月10日 9:00 起，售完為止",
+    "cond": "在交流商店每消費滿 500 日圓即可獲得 1 張",
+    "limit": "每人最多 3 張"
+   },
+   "ko": {
+    "name": "국철 고하마키타선 전 노선 개통 90주년 기념",
+    "when": "7/10 9:00~ 매진 시 종료",
+    "cond": "교류 숍에서 500엔 이상 구매 시 1장",
+    "limit": "1인당 3장까지"
+   }
+  },
+  "5a6fe50ee7": {
+   "key": "ccab6d5456b1",
+   "en": {
+    "name": "7th Anniversary Ticket",
+    "when": "Distributed only from 11/07 to 12/07",
+    "cond": "Customers who spend 1,000 yen (including tax) or more in the direct sales shop on the same day will receive a farm-direct gift or one ticket.",
+    "limit": "Limited to one per person"
+   },
+   "zh-Hant": {
+    "name": "7週年紀念車票",
+    "when": "僅於 7 月 11 日至 7 月 12 日期間發放",
+    "cond": "當日在直銷處消費滿 1,000 日圓（含稅）的顧客，可獲得一份產地直送贈品或一張優惠券。",
+    "limit": "每人限領一張"
+   },
+   "ko": {
+    "name": "7주년 기념 티켓",
+    "when": "7/11~7/12에만 배포",
+    "cond": "직판소 내에서 당일 1,000엔(세금 포함) 이상 구매한 고객에게 산지 직송 경품 또는 티켓 1매 증정",
+    "limit": "1인당 1장까지"
+   }
+  },
+  "fc3c4dc949": {
+   "key": "dc9a6b51148f",
+   "en": {
+    "name": "Celebrating our 7th anniversary",
+    "when": "11 July from 9:00 until sold out",
+    "cond": "One free gift for customers who spend £5.00 or more (including tax) at the direct sales shop or general goods section",
+    "limit": "Up to 3 per person"
+   },
+   "zh-Hant": {
+    "name": "慶祝開幕 7 週年紀念",
+    "when": "7月11日 9:00 起，售完為止",
+    "cond": "在直銷處與雜貨區消費滿 500 日圓（含稅）即可獲得一張。",
+    "limit": "每人最多 3 張"
+   },
+   "ko": {
+    "name": "오픈 7주년 기념 축하",
+    "when": "7/11 9:00~ 소진 시 종료",
+    "cond": "직판소·잡화 코너에서 500엔(세금 포함) 이상 구매하신 분께 1장 증정",
+    "limit": "1인당 3장까지"
    }
   }
  },
