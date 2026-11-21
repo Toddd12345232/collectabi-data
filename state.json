@@ -22359,6 +22359,77 @@
  "apt_specials": {
   "posts": [
    {
+    "posted": "2026-11-20",
+    "pref": "宮城県",
+    "station": "東松島",
+    "name": "二周年記念きっぷ",
+    "when": "11/27 9:00～なくなり次第終了",
+    "cond": "当日物販1000円以上購入の方に1枚",
+    "limit": "お1人様1枚まで",
+    "mail": "NG",
+    "phone": "NG",
+    "extra": [],
+    "id": "fc774d220a",
+    "start": "2026-11-27",
+    "end": null,
+    "ended": null
+   },
+   {
+    "posted": "2026-11-20",
+    "pref": "静岡県",
+    "station": "ふじおやま",
+    "name": "二十二周年記念きっぷ",
+    "when": "11/28～ 7:00～なくなり次第終了",
+    "cond": "物販1000円以上お買上の方に1枚(宝くじ除く)",
+    "limit": "お1人様1枚迄",
+    "mail": "NG",
+    "phone": "NG",
+    "extra": [
+     "【配布期間】2026.11/28～2027.3/31まで"
+    ],
+    "id": "df9a5ddf1f",
+    "start": "2026-11-28",
+    "end": null,
+    "ended": null
+   },
+   {
+    "posted": "2026-11-20",
+    "pref": "大阪府",
+    "station": "奥河内くろまろの郷",
+    "name": "施設開業12周年 2026年特別記念切符",
+    "when": "11/28～11/29のみ 各日100枚なくなり次第終了",
+    "cond": "下記の①or②",
+    "limit": "お１人様1枚迄",
+    "mail": "NG",
+    "phone": "NG",
+    "extra": [
+     "①物販､イートイン商品を500円以上購入の方",
+     "②通常券3枚に1枚"
+    ],
+    "id": "d4216efc2d",
+    "start": "2026-11-28",
+    "end": "2026-11-29",
+    "ended": null
+   },
+   {
+    "posted": "2026-11-20",
+    "pref": "兵庫県",
+    "station": "銀の馬車道・神河",
+    "name": "開場9周年記念切符",
+    "when": "11/27～11/29のみ",
+    "cond": "1会計200円以上購入で1枚",
+    "limit": "1日100枚まで配布(各日100枚)",
+    "mail": "NG",
+    "phone": "OK(取置不可)",
+    "extra": [
+     "※27日､28日の残があれば29日にプラスして配付"
+    ],
+    "id": "50fe5c8a84",
+    "start": "2026-11-27",
+    "end": "2026-11-29",
+    "ended": null
+   },
+   {
     "posted": "2026-11-16",
     "pref": "岩手県",
     "station": "かわさき",
@@ -63620,15 +63691,15 @@
  },
  "sources": {
   "michieki": "2026-11-20T01:58:24+00:00",
-  "apt_status": "2026-11-20T01:58:24+00:00",
-  "apt_specials": "2026-11-20T01:58:24+00:00",
-  "apt_notices": "2026-11-20T01:58:24+00:00",
+  "apt_status": "2026-11-21T01:54:40+00:00",
+  "apt_specials": "2026-11-21T01:54:40+00:00",
+  "apt_notices": "2026-11-21T01:54:40+00:00",
   "chubu": "2026-11-20T01:58:24+00:00",
   "manhole": "2026-11-20T01:58:24+00:00",
   "details": "2026-11-13T01:36:30+00:00"
  },
  "notes": [
-  "translation: 0 characters with MyMemory"
+  "translation: 969 characters with MyMemory"
  ],
  "translations": {
   "0c0c821cc1": {
@@ -68836,6 +68907,123 @@
     "extra": [
      "1. 방문자 센터에서 500엔 이상 구매한 고객",
      "2. 당일 이벤트 참여"
+    ]
+   }
+  },
+  "fc774d220a": {
+   "key": "d0cf2c019a35",
+   "en": {
+    "name": "Second Anniversary Ticket",
+    "when": "From 9:00 on 27 November until sold out",
+    "cond": "One for those who purchase over £1000 worth of merchandise on the day",
+    "limit": "Limited to one per person"
+   },
+   "zh-Hant": {
+    "name": "二週年紀念車票",
+    "when": "11月27日 9:00 起，售完為止",
+    "cond": "當日購買商品滿 1,000 日圓以上者可獲得一張",
+    "limit": "每人限領一張"
+   },
+   "ko": {
+    "name": "2주년 기념 승차권",
+    "when": "11/27 9:00~ 소진 시 종료",
+    "cond": "당일 굿즈 1,000엔 이상 구매 시 1장",
+    "limit": "1인당 1장까지"
+   }
+  },
+  "50fe5c8a84": {
+   "key": "0301948bf167",
+   "en": {
+    "name": "9th Anniversary Ticket",
+    "when": "27/11–29/11 only",
+    "cond": "One coupon for purchases over £200 per transaction",
+    "limit": "Distribute up to 100 vouchers per day (100 vouchers each day)",
+    "phone": "OK (No reservations)",
+    "extra": [
+     "*If there is a balance remaining on the 27th and 28th, it will be added to the 29th and distributed."
+    ]
+   },
+   "zh-Hant": {
+    "name": "開幕 9 週年紀念票券",
+    "when": "僅限 11 月 27 日至 11 月 29 日",
+    "cond": "單筆消費滿 200 日圓即可獲得 1 張",
+    "limit": "每天最多發放 100 張（每天 100 張）",
+    "phone": "OK（不可保留）",
+    "extra": [
+     "※若 27 日、28 日有剩餘，將於 29 日一併發放。"
+    ]
+   },
+   "ko": {
+    "name": "개장 9주년 기념 티켓",
+    "when": "11/27~11/29 한정",
+    "cond": "1회 결제 시 200엔 이상 구매 시 1장",
+    "limit": "하루 100장까지 배포(매일 100장)",
+    "phone": "OK(보관 불가)",
+    "extra": [
+     "※ 27일, 28일 잔액이 있으면 29일에 더해 배분"
+    ]
+   }
+  },
+  "df9a5ddf1f": {
+   "key": "a2cefbb36daf",
+   "en": {
+    "name": "22nd Anniversary Ticket",
+    "when": "28 November – from 7:00 until sold out",
+    "cond": "One ticket for customers who spend over £10.00 on merchandise (excluding lottery tickets)",
+    "limit": "Limit of one per person",
+    "extra": [
+     "[Distribution period] 28/11/2026 – 31/03/2027"
+    ]
+   },
+   "zh-Hant": {
+    "name": "二十二週年紀念車票",
+    "when": "11 月 28 日起，上午 7:00 起，售完為止",
+    "cond": "凡購買商品滿 1,000 日圓以上（不含彩券）即可獲得一張。",
+    "limit": "每人限領一張",
+    "extra": [
+     "【發放期間】2026 年 11 月 28 日至 2027 年 3 月 31 日"
+    ]
+   },
+   "ko": {
+    "name": "22주년 기념 승차권",
+    "when": "11/28~ 7:00~ 매진 시 종료",
+    "cond": "상품 1,000엔 이상 구매 시 1장(복권 제외)",
+    "limit": "1인 1매까지",
+    "extra": [
+     "【배포 기간】2026년 11월 28일~2027년 3월 31일"
+    ]
+   }
+  },
+  "d4216efc2d": {
+   "key": "a3c5eaf1ca43",
+   "en": {
+    "name": "Special commemorative ticket for the 12th anniversary of the facility's opening in 2026",
+    "when": "28/11–29/11 only. Ends when all 100 tickets for each day have been sold.",
+    "cond": "1 or 2 below",
+    "limit": "Limited to one per person",
+    "extra": [
+     "1. Customers who purchase merchandise or eat-in items worth over £500",
+     "1 out of 3 standard tickets"
+    ]
+   },
+   "zh-Hant": {
+    "name": "設施開業 12 週年 2026 年特別紀念票券",
+    "when": "僅限 11 月 28 日至 11 月 29 日，每日限量 100 張，售完為止。",
+    "cond": "以下 1 或 2",
+    "limit": "每人限領一張",
+    "extra": [
+     "1. 購買超過 500 日圓的商品或內用餐點者",
+     "2 每 3 張普通票券中就有 1 張"
+    ]
+   },
+   "ko": {
+    "name": "시설 개장 12주년 2026년 특별 기념 티켓",
+    "when": "11/28~11/29 한정 매일 100장 소진 시 종료",
+    "cond": "아래의 1 또는 2",
+    "limit": "1인당 1장까지",
+    "extra": [
+     "1. 상품, 매장 식사 상품을 500엔 이상 구매한 고객",
+     "2 일반권 3장 중 1장"
     ]
    }
   }
